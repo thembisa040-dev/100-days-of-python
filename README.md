@@ -24,10 +24,10 @@ My goal is to strengthen my programming, problem-solving and data analysis skill
 
 ## Progress Tracker
 
-| Day | Topic | Status |
+| Day | Project | Status |
 |-----|-------|--------|
-| 01 | Python Fundamentals | Completed ✅ |
-| 02 | Python Fundamentals | Completed ✅ |
+| 01 | Career Profile Generator | Completed ✅ |
+| 02 | Retail Sales Calculator | Completed ✅ |
 
 ## Learning Progress
 
