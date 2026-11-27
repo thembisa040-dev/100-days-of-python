@@ -27,11 +27,12 @@ My goal is to strengthen my programming, problem-solving and data analysis skill
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | Python Fundamentals | Completed ✅ |
+| 02 | Python Fundamentals | Completed ✅ |
 
 ## Learning Progress
 
 - Start date: 26 November 2026
-- Days completed: 1/100
+- Days completed: 2/100
 
 ## About Me
 
